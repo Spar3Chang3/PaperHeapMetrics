@@ -1,0 +1,4 @@
+name: MinecraftHeapMetrics
+version: '1.0-SNAPSHOT'
+main: com.spar3chang3.minecraftHeapMetrics.MinecraftHeapMetrics
+api-version: '1.20'
